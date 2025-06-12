@@ -1,3 +1,6 @@
 [submodule "bookings"]
 	path = bookings
 	url = https://github.com/paulopsms/bookings.git
+[submodule "qrcode-generator"]
+	path = qrcode-generator
+	url = https://github.com/paulopsms/qrcode-generator.git
